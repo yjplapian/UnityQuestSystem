@@ -1,2 +1,4 @@
-# UnityQuestSystem
-A Scriptable Object based quest system authored for designers.
+# Unity Scriptable Quest System
+
+Introduction
+Scriptable Quest System is a scriptable object based questing system that is tailored for designers.
